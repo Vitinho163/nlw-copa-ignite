@@ -56,7 +56,7 @@ Aplicação frontend do projeto construído utilizando React, Next.js, Typescrip
 ![TS Badge](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 
-![PreviewReact](./.github/PreviewReact.png)
+![PreviewReact](./preview/PreviewReact.png)
 
 ## RODAR APLICAÇÃO FRONTEND
 
@@ -91,11 +91,11 @@ Aplicação mobile do projeto construído utilizando React Native, Expo, Native-
 ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37)
 
 <div style="display:flex; flex-wrap: wrap; gap: 20px; justify-content: center;">
-  <img src="./.github/splash.jpeg" width="180px" height="360px"/>
-  <img src="./.github/login.jpeg" width="180px" height="360px"/>
-  <img src="./.github/tela1.jpeg" width="180px" height="360px"/>
-  <img src="./.github/tela2.jpeg" width="180px" height="360px"/>
-  <img src="./.github/tela3.jpeg" width="180px" height="360px"/>
+  <img src="./preview/splash.jpeg" width="180px" height="360px"/>
+  <img src="./preview/login.jpeg" width="180px" height="360px"/>
+  <img src="./preview/tela1.jpeg" width="180px" height="360px"/>
+  <img src="./preview/tela2.jpeg" width="180px" height="360px"/>
+  <img src="./preview/tela3.jpeg" width="180px" height="360px"/>
 </div>
 <br>
 
