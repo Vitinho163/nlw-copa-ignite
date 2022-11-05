@@ -1,4 +1,4 @@
-# NLW COPA IGNITE 2022 - bolão
+# NLW COPA IGNITE 2022 - Aplicação Mobile e Web
 
 Projeto desenvolvida durante o evento NLW Copa da Rocketseat.
 
