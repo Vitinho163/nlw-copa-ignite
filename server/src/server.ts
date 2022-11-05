@@ -29,7 +29,8 @@ async function bootstrap() {
   await fastify.register(guessRoutes)
   await fastify.register(userRoutes)
 
-  await fastify.listen({ port: 3333,  host: '0.0.0.0'  })
+await fastify.listen({ port: 3333, /* host: '0.0.0.0' */   })
+  // caso for usar aplicação mobile descomentar o host.
 }
 
 bootstrap()
